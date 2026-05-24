@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "the_walking_undeads.aternos.me",
+    "port": 29800,
     "version": "1.21.1"
   },
   "position": {
